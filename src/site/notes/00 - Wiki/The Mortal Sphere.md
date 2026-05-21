@@ -35,6 +35,9 @@ filters: file.ext == 'md'
 views:
   - type: table
     name: Most Recent Notes
+    filters:
+      and:
+        - file.ext == "md"
     order:
       - file.ctime
       - file.name
