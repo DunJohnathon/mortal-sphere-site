@@ -41,6 +41,7 @@ views:
     sort:
       - property: file.ctime
         direction: DESC
+    limit: 10
 
 ```
 
