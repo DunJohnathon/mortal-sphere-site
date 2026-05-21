@@ -9,7 +9,6 @@
 >*— [[Eygon Van Donnor\|Eygon Van Donnor]], vampire hunter*
 
 Astrgolfel (pronounced: /a-STER-goel-fehl/) is an old name in the Duanish tongue that caught on during the [[Age of the Horizon.\|Age of the Horizon.]] Translated literally, it means, "Where the star Gol Fell."
-![Astrgolfel-image.png](/img/user/00%20-%20Wiki/Utilities/Images/Astrgolfel-image.png)
 # Overview
 Astrgolfel is a bleak region dominated by vampiric overlords who rule during the night. The land is subject to the influence of the Shadowfell more so than any other.
 ## Major Realms
