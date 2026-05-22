@@ -39,7 +39,6 @@ views:
       and:
         - file.ext == "md"
     order:
-      - file.ctime
       - file.name
     sort:
       - property: file.ctime

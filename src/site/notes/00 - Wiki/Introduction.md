@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-wiki/introduction/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-wiki/introduction/","dg-note-properties":{"created":"05-22-2026"}}
 ---
 
 # Introduction
