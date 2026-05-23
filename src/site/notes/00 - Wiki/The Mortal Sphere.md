@@ -21,6 +21,9 @@ views:
     filters:
       and:
         - file.ext == "md"
+    order:
+      - file.name
+      - file.ctime
     sort:
       - property: file.ctime
         direction: DESC
