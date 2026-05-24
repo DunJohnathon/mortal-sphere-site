@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-06-23T17:51:30.826-05:00","permalink":"/00-wiki/my-story/","dgPassFrontmatter":true,"updated":"2026-05-24T15:20:15.217-05:00","dg-note-properties":{"created":"2025-06-23"}}
+{"dg-publish":true,"created":"2025-06-23T17:51:30.826-05:00","permalink":"/00-wiki/my-story/","dgPassFrontmatter":true,"updated":"2026-05-24T16:46:32.194-05:00","dg-note-properties":{"created":"2025-06-23"}}
 ---
 
 # My Story
@@ -17,3 +17,28 @@ Through it all, and still today (no matter when you are reading), I kept thinkin
 
 If you ever want to reach out to me with questions or to learn more about the Mortal Sphere, feel free to reach out on reddit where I can be found as u/AFumblingArchitect. 
 I hope you enjoy The Mortal Sphere!
+
+
+```base
+formulas:
+  created: file.ctime.format('"YYYY-MM-DD"').toString()
+properties:
+  note.created:
+    displayName: Created Date
+  formula.created:
+    displayName: date
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+    order:
+      - file.name
+      - created
+    sort:
+      - property: file.ctime
+        direction: ASC
+    limit: 10
+
+```
