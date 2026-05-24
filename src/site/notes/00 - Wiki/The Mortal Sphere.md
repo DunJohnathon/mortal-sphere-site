@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"created":"2025-05-31T11:34:13.504-05:00","test":"john","permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2026-05-24T16:02:52.959-05:00","dg-note-properties":{"created":"2025-05-31","test":"john"}}
+{"dg-publish":true,"dg-home":true,"created":"2025-05-31T11:34:13.504-05:00","test":"john","permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2026-05-24T16:24:44.984-05:00","dg-note-properties":{"created":"2025-05-31","test":"john"}}
 ---
 
 # Welcome to  <span style="font-family: 'Cinzel Decorative';font-size: 24pt">The Mortal Sphere</span>
@@ -9,7 +9,7 @@
  >— [[05 - Legendarium/St. Zhefarah zi Nahri\|St. Zhefarah zi Nahri]], Pharaoh of [[01 - Geography/01.1 - Mord/Regions/The Holy Empire of Nahraam\|The Holy Empire of Nahraam]]
  >
 
-Hello, and welcome to the Mortal Sphere! This website covers the ever-expanding knowledge base of worldbuilding material that I make for my homebrew universe made specially for Dungeons & Dragons 5th edition. If you are new to the campaign setting, I recommend you start with the [[00 - Wiki/Introduction\|Introduction]]! From there, feel free to branch out to any area of interest to you.
+Hello, and welcome to the Mortal Sphere! This website covers the ever-expanding knowledge base of worldbuilding material that I make for my homebrew universe made specially for Dungeons & Dragons 5th edition. If you are new to the campaign setting, I recommend you start with the [[00 - Wiki/Introduction\|Introduction]]! From there, feel free to branch out to any area of interest to you.aaa
 # Contents
 This wiki is rich with information about a variety of topics throughout the Macrocosm, and with optional rules and content to use in your game.
 
