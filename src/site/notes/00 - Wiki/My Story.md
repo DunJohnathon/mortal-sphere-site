@@ -38,6 +38,8 @@ views:
       - created
       - file.ctime
     sort:
+      - property: created
+        direction: ASC
       - property: file.ctime
         direction: ASC
     limit: 10
