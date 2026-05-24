@@ -34,7 +34,7 @@ views:
       - test
     sort:
       - property: test
-        direction: DESC
+        direction: ASC
     limit: 10
 
 ```
