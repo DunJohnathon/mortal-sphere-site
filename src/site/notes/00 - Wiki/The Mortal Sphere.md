@@ -29,6 +29,8 @@ views:
       - file.name
       - created
       - formula.created
+      - dg-publish
+      - file.path
     sort:
       - property: created
         direction: DESC
