@@ -17,6 +17,8 @@ This wiki is rich with information about a variety of topics throughout the Macr
 ## Most Recent Pages
 
 ```base
+formulas:
+  created: file.ctime
 views:
   - type: table
     name: Table
@@ -26,6 +28,7 @@ views:
     order:
       - file.name
       - created
+      - formula.created
     sort:
       - property: created
         direction: DESC
