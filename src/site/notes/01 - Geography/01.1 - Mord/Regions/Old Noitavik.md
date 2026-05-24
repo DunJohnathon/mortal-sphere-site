@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/01-geography/01-1-mord/regions/old-noitavik/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-geography/01-1-mord/regions/old-noitavik/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"dg-home":true,"permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # <span style="font-family: 'Cinzel Decorative';font-size: 36pt">The Mortal Sphere</span>
@@ -32,35 +32,4 @@ views:
 ```
 
 
-test
-```base
-filters: file.ext == 'md'
-views:
-  - type: table
-    name: Most Recent Notes
-    filters:
-      and:
-        - file.ext == "md"
-    order:
-      - file.name
-      - file.ctime
-    sort:
-      - property: file.ctime
-        direction: DESC
-    limit: 10
-
-```
-
-
-| Index Number | Topic Link          |
-| ------------ | ------------------- |
-| 00           | [[Cosmology\|Cosmology]]       |
-| 10           | [[History\|History]]         |
-| 20           | [[01 - Geography/Taea\|Geography]] |
-| 30           | [[Ancestries\|Ancestries]]      |
-| 40           | [[Religion\|Religion]]        |
-| 50           | [[06 - Magic/magic\|magic]]           |
-|              |                     |
-|              |                     |
- 
 ---

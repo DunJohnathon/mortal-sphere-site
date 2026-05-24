@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/01-geography/01-2-sannaea/selendir/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-geography/01-2-sannaea/selendir/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-cosmology/shape-of-the-universe/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/03-cosmology/shape-of-the-universe/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 An hourglass

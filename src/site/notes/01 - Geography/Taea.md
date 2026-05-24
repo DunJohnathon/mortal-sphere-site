@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-geography/taea/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-geography/taea/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # <span style="font-family: 'Cinzel Decorative';font-size: 36pt">Taea</span>
 >
->*"From the light of the Bright Star east I have wandered hither. Through waste and fire of the black throne that was once my home, through the many realms of the dragon lords, through the city-seas of the conqueror, through secret paths in mountain wounds, through the bloody fields of battle, I have arrived now to this Jewel of the Desert. I have seen much beauty and hardship, and many treasures. But in all my journeying, I thought only of home, of Taea."
+>"From the light of the Bright Star east I have wandered hither. Through waste and fire of the black throne that was once my home, through the many realms of the dragon lords, through the city-seas of the conqueror, through secret paths in mountain wounds, through the bloody fields of battle, I have arrived now to this Jewel of the Desert. I have seen much beauty and hardship, and many treasures. But in all my journeying, I thought only of home, of Taea."
 >
- >— [[Ferron\|Ferron]], the last survivor of the [[House of the Fallen Star\|House of the Fallen Star]]*
+ >— [[Ferron\|Ferron]], the last survivor of the [[House of the Fallen Star\|House of the Fallen Star]]
  >
 
 Taea (pronounced: /TAY-ah/), is the largely accepted name for what is cosmologically referred to as the Mortal Sphere. The name, as is common of most major naming schemes, is of [[04 - Ancestries/Elves\|Elvish]] origin, and might be literally translated to "This Place", or "The Place". Though the meaning of the name may appear lacking in spirit or character, the significance of its translation should not be understated. In Elvish, such a name as Taea signifies intense gravity and magnitude of importance, and can be more generally understood to mean "the only place for me."
