@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":true,"created":"2025-05-31T11:34:13.504-05:00","permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2026-05-24T15:48:43.389-05:00","dg-note-properties":{"created":"2025-05-31"}}
+{"dg-publish":true,"dg-home":true,"created":"2025-05-31T11:34:13.504-05:00","permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2026-05-24T15:51:23.925-05:00","dg-note-properties":{"created":"2025-05-31"}}
 ---
 
-# Welcome to  <span style="font-family: 'Cinzel Decorative';font-size: 18pt">The Mortal Sphere</span>
+# Welcome to  <span style="font-family: 'Cinzel Decorative';font-size: 24pt">The Mortal Sphere</span>
 >
 >"Nobody lives forever. Any who claim the contrary are not truly living."
 >
@@ -18,7 +18,7 @@ This wiki is rich with information about a variety of topics throughout the Macr
 
 ```base
 formulas:
-  created: file.ctime
+  created: file.ctime.format('"YYYY-MM-DD"').toString()
 views:
   - type: table
     name: Table
@@ -48,7 +48,7 @@ views:
         - file.ext == "md"
     order:
       - file.name
-      - file.created
+      - file.ctime
     sort:
       - property: file.ctime
         direction: DESC
