@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"created":"2025-05-31T11:34:13.504-05:00","permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2026-05-24T15:51:23.925-05:00","dg-note-properties":{"created":"2025-05-31"}}
+{"dg-publish":true,"dg-home":true,"created":"2025-05-31T11:34:13.504-05:00","test":"john","permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2026-05-24T16:02:52.959-05:00","dg-note-properties":{"created":"2025-05-31","test":"john"}}
 ---
 
 # Welcome to  <span style="font-family: 'Cinzel Decorative';font-size: 24pt">The Mortal Sphere</span>
@@ -31,8 +31,9 @@ views:
       - formula.created
       - dg-publish
       - file.path
+      - test
     sort:
-      - property: created
+      - property: test
         direction: DESC
     limit: 10
 
