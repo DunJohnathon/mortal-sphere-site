@@ -26,7 +26,9 @@ views:
     order:
       - file.name
       - created
-    sort: []
+    sort:
+      - property: created
+        direction: DESC
     limit: 10
 
 ```
