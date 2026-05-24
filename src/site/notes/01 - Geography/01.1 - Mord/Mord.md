@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-geography/01-1-mord/mord/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"created":"2025-06-06","permalink":"/01-geography/01-1-mord/mord/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-06-06"}}
 ---
 
 # <span style="font-family: 'Cinzel Decorative';font-size: 36pt">Mord</span>

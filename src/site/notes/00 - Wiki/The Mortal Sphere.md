@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-home":true,"created":"2025-05-31","permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-05-31"}}
 ---
 
 # Welcome to  <span style="font-family: 'Cinzel Decorative';font-size: 18pt">The Mortal Sphere</span>

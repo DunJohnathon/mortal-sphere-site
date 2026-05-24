@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"tags":["region","continent"],"permalink":"/01-geography/01-1-mord/regions/cordelia/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["region","continent"]}}
+{"dg-publish":true,"created":"2025-06-04","tags":["region","mord"],"permalink":"/01-geography/01-1-mord/regions/cordelia/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-06-04","tags":["region","mord"]}}
 ---
 
 # <span style="font-family: 'Cinzel Decorative';font-size: 36pt">Cordelia</span>
 The Golden Cities of the Saint King
 >
->*"Vecny Zivot"*
->*—  Cordelian shibboleth, 'Eternal Life'*
+>"Vecny Zivot"
+>—  Cordelian shibboleth, 'Eternal Life'
 
 Etymology (pronounced: /kohr-DEE-lee-uh/)
 # Overview

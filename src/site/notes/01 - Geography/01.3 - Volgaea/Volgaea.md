@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-geography/01-3-volgaea/volgaea/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"created":"2025-06-06","permalink":"/01-geography/01-3-volgaea/volgaea/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-06-06"}}
 ---
 
 The Land of Scars

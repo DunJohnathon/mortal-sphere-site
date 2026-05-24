@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"05-22-2026","permalink":"/00-wiki/introduction/","dgPassFrontmatter":true,"dg-note-properties":{"created":"05-22-2026"}}
+{"dg-publish":true,"created":"2025-10-21","permalink":"/00-wiki/introduction/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-10-21"}}
 ---
 
 # Introduction

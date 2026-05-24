@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["region","mord"],"permalink":"/01-geography/01-1-mord/regions/astrgolfel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["region","mord"]}}
+{"dg-publish":true,"created":"2025-06-06","tags":["region","mord"],"permalink":"/01-geography/01-1-mord/regions/astrgolfel/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-06-06","tags":["region","mord"]}}
 ---
 
 # <span style="font-family: 'Cinzel Decorative';font-size: 36pt">Astrgolfel</span>
