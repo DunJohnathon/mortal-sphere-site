@@ -36,6 +36,7 @@ views:
     order:
       - file.name
       - created
+      - file.ctime
     sort:
       - property: file.ctime
         direction: ASC
