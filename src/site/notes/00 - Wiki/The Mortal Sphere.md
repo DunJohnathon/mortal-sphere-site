@@ -16,28 +16,6 @@ This wiki is rich with information about a variety of topics throughout the Macr
 
 ## Most Recent Pages
 
-```base
-formulas:
-  created: file.ctime
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.ext == "md"
-    order:
-      - file.name
-      - created
-      - formula.created
-      - dg-publish
-      - file.path
-    sort:
-      - property: created
-        direction: DESC
-    limit: 10
-
-```
-
 
 ```base
 views:
