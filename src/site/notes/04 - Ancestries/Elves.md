@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-06-04","permalink":"/04-ancestries/elves/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-06-04"}}
+{"dg-publish":true,"created":"2025-06-04T16:59:15.989-05:00","permalink":"/04-ancestries/elves/","dgPassFrontmatter":true,"updated":"2026-05-24T15:26:51.925-05:00","dg-note-properties":{"created":"2025-06-04"}}
 ---
 
 Elves have demigods

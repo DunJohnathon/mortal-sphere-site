@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2026-03-14","permalink":"/03-cosmology/shape-of-the-universe/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2026-03-14"}}
+{"dg-publish":true,"created":"2026-03-14T16:15:07.138-05:00","permalink":"/03-cosmology/shape-of-the-universe/","dgPassFrontmatter":true,"updated":"2026-05-24T15:26:27.394-05:00","dg-note-properties":{"created":"2026-03-14"}}
 ---
 
 An hourglass

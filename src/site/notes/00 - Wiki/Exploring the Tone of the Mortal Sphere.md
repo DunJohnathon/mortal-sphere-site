@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2026-05-24","permalink":"/00-wiki/exploring-the-tone-of-the-mortal-sphere/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2026-05-24"}}
+{"dg-publish":true,"created":"2026-05-24T14:37:48.199-05:00","permalink":"/00-wiki/exploring-the-tone-of-the-mortal-sphere/","dgPassFrontmatter":true,"updated":"2026-05-24T15:16:56.406-05:00","dg-note-properties":{"created":"2026-05-24"}}
 ---
 
 ## Exploring the Tone of the Mortal Sphere
