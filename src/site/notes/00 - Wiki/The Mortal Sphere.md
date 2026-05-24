@@ -25,7 +25,7 @@ views:
         - file.ext == "md"
     order:
       - file.name
-      - file.ctime
+      - created
     sort: []
     limit: 10
 
