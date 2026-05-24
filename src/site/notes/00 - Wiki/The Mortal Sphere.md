@@ -19,6 +19,11 @@ This wiki is rich with information about a variety of topics throughout the Macr
 ```base
 formulas:
   created: file.ctime.format('"YYYY-MM-DD"').toString()
+properties:
+  note.created:
+    displayName: Created Date
+  formula.created:
+    displayName: date
 views:
   - type: table
     name: Table
@@ -28,12 +33,8 @@ views:
     order:
       - file.name
       - created
-      - formula.created
-      - dg-publish
-      - file.path
-      - test
     sort:
-      - property: test
+      - property: file.ctime
         direction: ASC
     limit: 10
 
