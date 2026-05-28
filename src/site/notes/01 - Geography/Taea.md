@@ -9,7 +9,7 @@
  >— [[Ferron\|Ferron]], the last survivor of the [[House of the Fallen Star\|House of the Fallen Star]]
  >
 
-Taea (pronounced: /TAY-ah/), is the largely accepted name for what is cosmologically referred to as the Mortal Sphere. The name, as is common of most major naming schemes, is of [[04 - Ancestries/Elves\|Elvish]] origin, and might be literally translated to "This Place", or "The Place". Though the meaning of the name may appear lacking in spirit or character, the significance of its translation should not be understated. In Elvish, such a name as Taea signifies intense gravity and magnitude of importance, and can be more generally understood to mean "the only place for me."
+Taea (pronounced: /TAY-ah/), is the largely accepted name for what is cosmologically referred to as the Mortal Sphere. The name, as is common of most major naming schemes, is of [[04 - Character Creation/04.1 - Ancestries/Elves\|Elvish]] origin, and might be literally translated to "This Place", or "The Place". Though the meaning of the name may appear lacking in spirit or character, the significance of its translation should not be understated. In Elvish, such a name as Taea signifies intense gravity and magnitude of importance, and can be more generally understood to mean "the only place for me."
 # Overview
 The geography of the Mortal Sphere focuses primarily on what a Dungeon Master or player can leverage for adventure or character inspiration. It is important to remember that the Mortal Sphere contains many broad settings for many different types of campaigns. The descriptions of the regions condense lots of information into digestible and intriguing profiles.
 # Geography
