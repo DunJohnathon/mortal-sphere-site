@@ -27,6 +27,8 @@ properties:
     displayName: Created Date
   formula.created:
     displayName: date
+  file.ctime:
+    displayName: Created
 views:
   - type: table
     name: Table
@@ -39,9 +41,9 @@ views:
       - file.ctime
     sort:
       - property: created
-        direction: ASC
+        direction: DESC
       - property: file.ctime
-        direction: ASC
+        direction: DESC
     limit: 10
 
 ```
