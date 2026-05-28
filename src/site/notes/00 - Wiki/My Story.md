@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-06-23T17:51:30.826-05:00","permalink":"/00-wiki/my-story/","dgPassFrontmatter":true,"updated":"2026-05-27T20:28:16.131-05:00","dg-note-properties":{"created":"2025-06-23"}}
+{"dg-publish":true,"created-test":"2025-06-23","permalink":"/00-wiki/my-story/","dgPassFrontmatter":true,"created":"2025-06-23T17:51:30.826-05:00","updated":"2026-05-27T20:48:54.588-05:00","dg-note-properties":{"created-test":"2025-06-23"}}
 ---
 
 # My Story
@@ -37,13 +37,9 @@ views:
         - file.ext == "md"
     order:
       - file.name
-      - created
-      - file.ctime
     sort:
-      - property: created
-        direction: DESC
       - property: file.ctime
-        direction: DESC
+        direction: ASC
     limit: 10
 
 ```
