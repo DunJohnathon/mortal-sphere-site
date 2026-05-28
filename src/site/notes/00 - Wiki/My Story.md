@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created-test":"2025-06-23","permalink":"/00-wiki/my-story/","dgPassFrontmatter":true,"created":"2025-06-23T17:51:30.826-05:00","updated":"2026-05-27T20:48:54.588-05:00","dg-note-properties":{"created-test":"2025-06-23"}}
+{"dg-publish":true,"permalink":"/00-wiki/my-story/","dgPassFrontmatter":true,"created":"2025-06-23T17:51:30.826-05:00","updated":"2026-05-27T21:05:41.207-05:00","dg-note-properties":{}}
 ---
 
 # My Story

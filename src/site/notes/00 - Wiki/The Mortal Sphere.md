@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"created-test":"2025-05-31","permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-05-31T11:34:13.504-05:00","updated":"2026-05-27T20:56:40.794-05:00","dg-note-properties":{"created-test":"2025-05-31"}}
+{"dg-publish":true,"dg-home":true,"permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-05-31T11:34:13.504-05:00","updated":"2026-05-27T21:05:41.216-05:00","dg-note-properties":{}}
 ---
 
 # Welcome to  <span style="font-family: 'Cinzel Decorative';font-size: 24pt">The Mortal Sphere</span>
@@ -12,6 +12,25 @@
 Hello, and welcome to the Mortal Sphere! This website covers the ever-expanding knowledge base of worldbuilding material that I make for my homebrew universe made specially for Dungeons & Dragons 5th edition. If you are new to the campaign setting, I recommend you start with the [[00 - Wiki/Introduction\|Introduction]]! From there, feel free to branch out to any area of interest to you.
 # Contents
 This wiki is rich with information about a variety of topics throughout the Macrocosm, and with optional rules and content to use in your game.
+
+```base
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - '!file.folder.contains(".")'
+        - file.ext == "md"
+        - '!file.folder.contains("00 - Miscellaneous")'
+        - '!file.folder.contains("00 - Wiki")'
+    order:
+      - file.name
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC
+
+```
 
 
 ## Ten Most Recently Created Pages
