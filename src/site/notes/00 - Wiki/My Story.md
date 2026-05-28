@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-06-23T17:51:30.826-05:00","permalink":"/00-wiki/my-story/","dgPassFrontmatter":true,"updated":"2026-05-24T16:46:32.194-05:00","dg-note-properties":{"created":"2025-06-23"}}
+{"dg-publish":true,"created":"2025-06-23T17:51:30.826-05:00","permalink":"/00-wiki/my-story/","dgPassFrontmatter":true,"updated":"2026-05-27T20:28:16.131-05:00","dg-note-properties":{"created":"2025-06-23"}}
 ---
 
 # My Story
@@ -41,6 +41,33 @@ views:
       - file.ctime
     sort:
       - property: created
+        direction: DESC
+      - property: file.ctime
+        direction: DESC
+    limit: 10
+
+```
+
+
+
+```base
+formulas:
+  john:): file.ctime.format("yyyy-MM-D").toString()
+properties:
+  file.ctime:
+    displayName: Created
+views:
+  - type: table
+    name: Recent Notes
+    filters:
+      and:
+        - file.ext == "md"
+    order:
+      - file.name
+      - file.ctime
+      - formula.john:)
+    sort:
+      - property: formula.john:)
         direction: DESC
       - property: file.ctime
         direction: DESC
