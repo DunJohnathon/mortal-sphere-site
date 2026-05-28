@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"created-test":"2025-05-31","permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-05-31T11:34:13.504-05:00","updated":"2026-05-27T20:48:54.599-05:00","dg-note-properties":{"created-test":"2025-05-31"}}
+{"dg-publish":true,"dg-home":true,"created-test":"2025-05-31","permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-05-31T11:34:13.504-05:00","updated":"2026-05-27T20:51:24.489-05:00","dg-note-properties":{"created-test":"2025-05-31"}}
 ---
 
 # Welcome to  <span style="font-family: 'Cinzel Decorative';font-size: 24pt">The Mortal Sphere</span>
@@ -15,38 +15,15 @@ This wiki is rich with information about a variety of topics throughout the Macr
 
 
 ## Most Recent Pages
-
-```base
-formulas:
-  created: file.ctime.format('"YYYY-MM-DD"').toString()
-properties:
-  note.created:
-    displayName: Created Date
-  formula.created:
-    displayName: date
-  file.ctime:
-    displayName: Created
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.ext == "md"
-    order:
-      - file.name
-    sort:
-      - property: file.ctime
-        direction: ASC
-    limit: 10
-
-```
-
-
 ```base
 formulas:
   john:): file.ctime.format("yyyy-MM-D").toString()
 properties:
   file.ctime:
+    displayName: Created
+  file.name:
+    displayName: Page
+  note.created:
     displayName: Created
 views:
   - type: table
@@ -56,12 +33,9 @@ views:
         - file.ext == "md"
     order:
       - file.name
-      - file.ctime
-      - formula.john:)
-      - updated
       - created
     sort:
-      - property: formula.john:)
+      - property: created
         direction: DESC
     limit: 10
 
