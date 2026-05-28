@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"created-test":"2025-05-31","permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-05-31T11:34:13.504-05:00","updated":"2026-05-27T20:54:33.990-05:00","dg-note-properties":{"created-test":"2025-05-31"}}
+{"dg-publish":true,"dg-home":true,"created-test":"2025-05-31","permalink":"/00-wiki/the-mortal-sphere/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-05-31T11:34:13.504-05:00","updated":"2026-05-27T20:56:40.794-05:00","dg-note-properties":{"created-test":"2025-05-31"}}
 ---
 
 # Welcome to  <span style="font-family: 'Cinzel Decorative';font-size: 24pt">The Mortal Sphere</span>
@@ -14,7 +14,7 @@ Hello, and welcome to the Mortal Sphere! This website covers the ever-expanding 
 This wiki is rich with information about a variety of topics throughout the Macrocosm, and with optional rules and content to use in your game.
 
 
-## Most Recent Pages
+## Ten Most Recently Created Pages
 ```base
 properties:
   file.ctime:
