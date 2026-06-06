@@ -16,7 +16,7 @@ This wiki is rich with information about a variety of topics throughout the Macr
 ```base
 views:
   - type: cards
-    name: Table
+    name: Table of Contents
     filters:
       and:
         - '!file.folder.contains(".")'

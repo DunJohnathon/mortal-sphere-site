@@ -1,0 +1,4 @@
+---
+{"dg-publish":true,"continent":"distant","geography":"continent","description":"South of Sannaea, across the sea, lies Imir. Though the continent's existence has been documented for centuries, it is only recently that the House of Vietor-Dych has successfully established expeditionary colonies to explore the \"new world\" as it has come to be known.","tagline":"The New World","permalink":"/01-geography/01-4-distant-lands/imir/","dgPassFrontmatter":true,"created":"2025-06-06T08:17:06.823-05:00","updated":"2026-06-06T17:46:09.716-05:00","dg-note-properties":{"continent":"distant","geography":"continent","description":"South of Sannaea, across the sea, lies Imir. Though the continent's existence has been documented for centuries, it is only recently that the House of Vietor-Dych has successfully established expeditionary colonies to explore the \"new world\" as it has come to be known.","tagline":"The New World"}}
+---
+

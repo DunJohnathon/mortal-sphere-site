@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/00-wiki/my-story/","dgPassFrontmatter":true,"created":"2025-06-23T17:51:30.826-05:00","updated":"2026-05-27T21:05:41.207-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-wiki/my-story/","dgPassFrontmatter":true,"created":"2025-06-23T17:51:30.826-05:00","updated":"2026-06-04T20:18:10.301-05:00","dg-note-properties":{}}
 ---
 
 # My Story
-I'm not really sure I can pin down when exactly I started "worldbuilding". What I do know is that I've had an active imagination for as long as I can remember. As a child growing up in rural America, I lived in a small neighborhood in the unincorporated areas of the county and attended a small school miles away from our house. I had to learn how to make my own fun very early. I was the type of kid who filled sketchbooks with drawings of monsters and characters. When I finished a novel, I was never satisfied with the ending. I would imagine the characters' lives after the story ended. I didn't even know that fan-fiction was a real hobby, I just thought that part of the normal fun of reading was creating my own fantasy about the book.
+I'm not really sure I can pin down when exactly I started "worldbuilding". What I do know is that I've had an active imagination for as long as I can remember. As a child growing up in rural America, I lived in a small neighborhood in the unincorporated county and attended a small school miles away from our house. I had to learn how to make my own fun very early in life. I was the type of kid who filled sketchbooks with drawings of monsters and characters. When I finished a novel, I was never satisfied with the ending. I would imagine the characters' lives after the story ended. I didn't even know that fan-fiction was a real hobby, I just thought that part of the normal fun of reading was creating my own fantasy about the book.
 
 It wasn't until middle-school that I was first introduced to Advanced Dungeons and Dragons by my English teacher. During our small, four-person after-school D&D club, I discovered the powerful stories you can tell on the tabletop.
 
@@ -17,56 +17,3 @@ Through it all, and still today (no matter when you are reading), I kept thinkin
 
 If you ever want to reach out to me with questions or to learn more about the Mortal Sphere, feel free to reach out on reddit where I can be found as u/AFumblingArchitect. 
 I hope you enjoy The Mortal Sphere!
-
-
-```base
-formulas:
-  created: file.ctime.format('"YYYY-MM-DD"').toString()
-properties:
-  note.created:
-    displayName: Created Date
-  formula.created:
-    displayName: date
-  file.ctime:
-    displayName: Created
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.ext == "md"
-    order:
-      - file.name
-    sort:
-      - property: file.ctime
-        direction: ASC
-    limit: 10
-
-```
-
-
-
-```base
-formulas:
-  john:): file.ctime.format("yyyy-MM-D").toString()
-properties:
-  file.ctime:
-    displayName: Created
-views:
-  - type: table
-    name: Recent Notes
-    filters:
-      and:
-        - file.ext == "md"
-    order:
-      - file.name
-      - file.ctime
-      - formula.john:)
-    sort:
-      - property: formula.john:)
-        direction: DESC
-      - property: file.ctime
-        direction: DESC
-    limit: 10
-
-```

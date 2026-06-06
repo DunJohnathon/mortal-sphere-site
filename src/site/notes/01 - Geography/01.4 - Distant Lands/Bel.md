@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/01-geography/01-4-distant-lands/bel/","dgPassFrontmatter":true,"created":"2025-06-06T08:17:06.823-05:00","updated":"2026-05-27T21:05:41.411-05:00","dg-note-properties":{}}
+{"dg-publish":true,"geography":"continent","continent":"distant","description":"Little is known of the land of iron, called Bel by its inhabitants. All goblinoids originated from Bel, sailing across the Bellatorian or the Umbral Oceans in their Worg ships in a colonization effort called the Iron host.","tagline":"The Domain of the Iron Host","permalink":"/01-geography/01-4-distant-lands/bel/","dgPassFrontmatter":true,"created":"2025-06-06T08:17:06.823-05:00","updated":"2026-06-06T17:46:02.588-05:00","dg-note-properties":{"geography":"continent","continent":"distant","description":"Little is known of the land of iron, called Bel by its inhabitants. All goblinoids originated from Bel, sailing across the Bellatorian or the Umbral Oceans in their Worg ships in a colonization effort called the Iron host.","tagline":"The Domain of the Iron Host"}}
 ---
 
