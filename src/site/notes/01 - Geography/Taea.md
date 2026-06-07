@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-geography/taea/","dgPassFrontmatter":true,"created":"2025-06-01T09:41:14.531-05:00","updated":"2026-06-06T17:48:16.268-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-geography/taea/","dgPassFrontmatter":true,"created":"2025-06-01T09:41:14.531-05:00","updated":"2026-06-06T19:00:37.684-05:00","dg-note-properties":{}}
 ---
 
 # <span style="font-family: 'Cinzel Decorative';font-size: 36pt">Taea</span>
@@ -29,6 +29,8 @@ width: 100%
 
 ---
 The surface of Taea has never been comprehensively surveyed in person, and does not have a single globalized culture in the current era. In addition, the nation-state has not yet emerged as the predominant method of classifying geographic areas as it has in the real world. Kingdoms and empires rise and fall, and their borders shift and migrate over time. Furthermore, the existence of creatures who live hundreds of years longer than others complicates the recognition of a valid political entity: does the [[Dwarvish\|Dwarvish]] geographer choose to even recognize an unstable human kingdom that may only last eighty years before collapse? The world is best understood as a loose collection of broad regions defined by shared geography, ecology, culture, or via self identification by the inhabitants therein. The most civilized, diverse, and populated regions are within the continents of [[01 - Geography/01.1 - Mord/Mord\|Mord]], [[01 - Geography/01.3 - Volgaea/Volgaea\|Volgaea]], and [[01 - Geography/01.2 - Sannaea/Sannaea\|Sannaea]]. The other three continents of Taea include [[01 - Geography/01.4 - Distant Lands/Bel\|Bel]], [[01 - Geography/01.4 - Distant Lands/Imir\|Imir]], and [[01 - Geography/01.4 - Distant Lands/Jotunheim\|Jotunheim]].
+
+Notably, the [[Arbasmendi Mountain Range\|Arbasmendi Mountain Range]] is a geographical barrier to travel, trade, and large-scale cultural exchange. Functionally, the mountain range separates the east and west regions of Mord, Volgaea, and Sannaea. Though in the past the mountains were traversable thanks to the interconnected halls and tunnels maintained by the Dwarves of Az-Mundu, following the events of the [[The Lucernan Age\|The Lucernan Age]], a pilgrimage through the mountains is deadly even for natives familiar with its many trappings.
 
 Taea also harbors four chief [[01 - Geography/01.4 - Distant Lands/The Oceans\|oceans]], including the [[The Bellatorian Ocean\|Bellatorian]], the [[The Conventaean Ocean\|Conventaean]], [[The Umbral Ocean\|the Umbral]], and the [[The Meridium Ocean\|Meridium]] Oceans. These oceans are each known for being particularly hazardous and difficult to traverse. Raging storms, fearsome oceanic monsters, and a [[particularly bellicose Storm Giant\|particularly bellicose Storm Giant]] make trans-continental sea voyages incredibly challenging. No entity has sailed successfully across these tempestuous waters in the current era without the aid of superior technology or a Vindman of the Vietor-Dych.
 
