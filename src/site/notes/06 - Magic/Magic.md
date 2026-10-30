@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-magic/magic/","dgPassFrontmatter":true,"created":"2025-06-19T09:17:07.201-05:00","updated":"2026-10-29T19:39:07.424-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/06-magic/magic/","dgPassFrontmatter":true,"created":"2025-06-19T09:17:07.201-05:00","updated":"2026-10-29T21:21:26.249-05:00","dg-note-properties":{}}
 ---
 
 # <span style="font-family: 'Cinzel Decorative';font-size: 36pt">Ars Vestigieae</span>
@@ -12,8 +12,7 @@ Magic is the explanation and answer to the supernatural, fantastical phenomena p
 # Overview
 The Macrocosm is a universe overflowing with the fantastical. Dragons rule entire kingdoms, knights duel against red devils, and people can really be brought back from the dead. But despite its seeming ubiquity, no one can decide what "magic" actually is. It is the scholarly opinion that the word "magic" is often grossly misused, and incorrectly applied to a wide variety of essentially natural phenomena or cultural rituals. The scholarly community ties itself in knots trying to define what is and isn't magic. 
 
-To further complicate it's study, the practice of real magic has varied wildly throughout history, and varies wildly still today depending on who is practicing it. Today, magic is best understood as the power of creation, manipulation, or destruction over the trace element 
-called [[Vestige\|Vestige]].
+To further complicate it's study, the practice of real magic has varied wildly throughout history, and varies wildly still today depending on who is practicing it. Today, magic is best understood as the power of creation, manipulation, or destruction over the trace element called [[Vestige\|Vestige]].
 
 # The Everyday Magic
 While sages have their symposiums on magical theories, the regular person need not know a thing about magic to reap the benefits from the magical community.  In fact, the overwhelming majority of people are completely mundane, even people of fantastical ancestry like the [[04 - Character Creation/04.1 - Ancestries/dragonborn\|Dragonborn]] or the [[Tiefling\|Tiefling]]. In the average county or similarly small, local area, you could expect maybe three to five people per thousand (or about one or two per small village) to have any magical talent at all. In urban cities, the magical community tends to be a bit larger, but magic-users find themselves ostracized from well-to-do society. Trends vary by region: in the magical colleges of [[01 - Geography/01.1 - Mord/Regions/Shaijaqim/Shaijaqim\|Shaijaqim]] magical students swarm throughout the university districts, whereas in remote [[01 - Geography/01.1 - Mord/Regions/Midani/Midani\|Midani]], witches and wizards are hunted by superstitious, paranoid nomads who fear their talents. As a general rule, any magic beyond third-level is practiced only by a few magical elites - hermits, witches, or cloistered academics -  and is all but inaccessible to the public. Even though these powerful magic users are incredibly valuable resources, they are also potentially dangerous threats. They stand outside of conventional social and political ladders, regarded at once with respect, awe, and fear.
